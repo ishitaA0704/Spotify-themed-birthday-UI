@@ -28,6 +28,7 @@ Handling basic events like button clicks
 Working with audio playback in the browser
 📸 Preview
 
+<img width="508" height="568" alt="image" src="https://github.com/user-attachments/assets/68f363bd-3bed-470f-9d19-7ca547704239" />
 
 
 🚀 How to Run
