@@ -1,21 +1,40 @@
-# Spotify Themed Birthday UI 🎵
+🎵 Spotify Themed Birthday Card
 
-A Spotify-inspired birthday card interface built using only HTML and CSS.
+A simple Spotify-inspired birthday card interface built using HTML, CSS, and basic JavaScript.
 
-## ✨ Features
-- Spotify-style music player layout
-- Birthday-themed custom UI
-- Centered card design
-- Progress bar and playback controls
-- Minimal dark aesthetic
+This project was created while learning frontend development fundamentals.
 
-## 🛠️ Built With
-- HTML5
-- CSS3
+✨ Features
+🎧 Spotify-style card UI design
+🎂 Birthday-themed layout
+▶️ Play / Pause music button
+⏱ Simple progress bar animation
+⌛ Current time and duration display
+🎨 Dark themed aesthetic
 
-## 🎯 About
-This is one of my first super mini frontend projects built while learning HTML and CSS fundamentals.
+🛠️ Built With
+HTML5
+CSS3
+JavaScript (basic level)
 
-## 📸 Preview
-<img width="486" height="584" alt="image" src="https://github.com/user-attachments/assets/9278e6f8-2f16-4068-983b-f4d8a5f47ea6" />
+📚 What I Learned
 
+While building this project, I practiced:
+
+Structuring a webpage using HTML
+Styling using CSS (layout, colors, flexbox basics)
+Using JavaScript for simple interactions
+Handling basic events like button clicks
+Working with audio playback in the browser
+📸 Preview
+
+
+
+🚀 How to Run
+Download or clone the repository
+Make sure song.mp3 is in the same folder as index.html
+Open index.html in a browser
+Click the play button ▶️
+📌 Note
+
+This project is built for learning purposes and is inspired by Spotify’s user interface design.
