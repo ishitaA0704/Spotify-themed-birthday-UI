@@ -30,12 +30,8 @@ Working with audio playback in the browser
 
 <img width="508" height="568" alt="image" src="https://github.com/user-attachments/assets/68f363bd-3bed-470f-9d19-7ca547704239" />
 
-
-🚀 How to Run
-Download or clone the repository
-Make sure song.mp3 is in the same folder as index.html
-Open index.html in a browser
-Click the play button ▶️
+Run it live at:
+https://ishitaa0704.github.io/Spotify-themed-birthday-UI/
 📌 Note
 
 This project is built for learning purposes and is inspired by Spotify’s user interface design.
